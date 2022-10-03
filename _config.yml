@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Time, Steady, Antifragile"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "What does not kill me makes me stronger." # site tagline that appears below site title in masthead
 name                     : "MMA"
 description              : "Analysis, Study, Hoby, Trace"
 url                      : "https://mmammammammamma.github.io"
